@@ -310,7 +310,7 @@ int main()
 	delete [] tablica[0];
 	delete [] tablica[1];
 	delete [] tablica[2];
-    delete [] tablica [3];
-    delete [] tablica;
+        delete [] tablica [3];
+        delete [] tablica;
 	return 0;
 }
